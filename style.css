@@ -31,21 +31,31 @@ body {
 }
 
 @keyframes userShake {
+  0%,
+  100% {
+    transform: rotate(90deg) translateY(0px);
+  }
   50% {
-    transform: rotateX(10deg);
+    /* Base 90deg + 15deg extra shake tilt = 105deg */
+    transform: rotate(105deg) translateY(-20px);
   }
 }
 
+/* === Robo Hand (Right Side) === */
 .container.start .robo-result {
   animation: roboShake 0.7s ease infinite;
 }
 
 @keyframes roboShake {
+  0%,
+  100% {
+    transform: rotate(-90deg) rotateY(180deg) translateY(0px);
+  }
   50% {
-    transform: rotateX(-10deg);
+    /* Keeps the 180deg flip, but alters the rotation tilt opposite direction */
+    transform: rotate(-105deg) rotateY(180deg) translateY(-20px);
   }
 }
-
 .result-images img {
   width: 100px;
 }
