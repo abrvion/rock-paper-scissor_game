@@ -11,12 +11,12 @@
 <img src="images/Screenshot 2026-07-12 231745.png" alt="game picture">
 </p>
 
-## Feautures 
+## Feautures 📝
 - random result
 - responsive
 - fun to play
 
-## Tech Stack
+## Tech Stack 🚀
 - HTML
 - CSS
 - JS
