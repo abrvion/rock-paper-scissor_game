@@ -10,3 +10,14 @@
 <p align="center">
 <img src="images/Screenshot 2026-07-12 231745.png" alt="game picture">
 </p>
+
+## Feautures 
+- random result
+- responsive
+- fun to play
+
+## Tech Stack
+- HTML
+- CSS
+- JS
+
