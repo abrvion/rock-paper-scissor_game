@@ -4,7 +4,7 @@
 ## Description
 <p>This game is built using only HTML, CSS, and JS. It makes you play rock, paper, scissors with the computer totally randomly. </p>
 
-## Visit the game: https://rpsgame3.netlify.app/
+## 🌐Visit the game: https://rpsgame3.netlify.app/
 
 
 <p align="center">
