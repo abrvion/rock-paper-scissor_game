@@ -8,7 +8,7 @@
 
 
 <p ">
-<img src="images/Screenshot 2026-07-12 231745.png" alt="game picture" width="500">
+<img src="images/Screenshot 2026-07-12 231745.png" alt="game picture" width="300">
 </p>
 
 ## Feautures 📝
