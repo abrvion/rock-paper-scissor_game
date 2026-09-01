@@ -6,15 +6,15 @@
 
 #### 🌐Visit the game: https://rpsgame3.netlify.app/
 
-#### Description
+### Description
 <p>This game is built using only HTML, CSS, and JS. It lets you play rock, paper, scissors with the computer, totally randomly. </p>
 
-#### Feautures 📝
+### Feautures 📝
 - random result
 - responsive
 - fun to play
 
-#### Tech Stack 🚀
+### Tech Stack 🚀
 - HTML
 - CSS
 - JS
