@@ -18,3 +18,14 @@
 - HTML
 - CSS
 - JS
+
+
+### Setup Steps
+Open your terminal and run the following commands:
+
+```bash
+git clone https://github.com/abrvion/rock-paper-scissor_game.git
+cd rock-paper-scissor_game
+npm install
+node index.js
+```
